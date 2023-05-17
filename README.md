@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#hola mi nombre es osmar javier, este es mi primer git hub  
+
+**me dedico al estudio, me gustan los videojuego y la musica**
+
+![uno de mi saga de juegos favorita](zelda.jpg) 
+
+### mi top de la saga
+
+1. zelda TP ;)
+2. zelda OOT :o
+3. zelda MM :D
+
+## *me dedico a estudiar ing informatica* 
+
+
+
+
+
+
+
